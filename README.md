@@ -1,3 +1,3 @@
 # rpoly-file-launcher
 
-The script uses a rpoly-file to recunstruct it in cadnano
+The script uses a rpoly-file to reconstruct it in Cadnano.
